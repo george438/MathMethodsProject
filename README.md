@@ -9,7 +9,7 @@
 
 Теория игр:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/george438-mathmethodsproject-sewolu11/notebooks/gameTheory.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/george438/MathMethodsProject/HEAD?filepath=gameTheory.ipynb)
 
 ## Setup
 Для взаимодействия с блокнотами локально необходимо сделать следующее:
