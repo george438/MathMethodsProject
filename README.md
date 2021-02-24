@@ -20,7 +20,7 @@
 
 Вот некоторые из них, полный список вы можете увидеть в requirements:
 ```
-$ conda install -c anaconda networkx
+$ conda install -c conda-forge pandas
 ```
 ```
 $ conda install -c conda-forge matplotlib
