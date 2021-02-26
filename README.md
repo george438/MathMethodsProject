@@ -11,6 +11,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/george438/MathMethodsProject/HEAD?filepath=gameTheory.ipynb)
 
+Симплекс - метод:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/george438/MathMethodsProject/HEAD?filepath=simplexMethod.ipynb)
+
 ## Setup
 Для взаимодействия с блокнотами локально необходимо сделать следующее:
 1. Скачать и установить дистрибутив [Anaconda](https://www.anaconda.com/distribution/)
@@ -34,3 +38,7 @@ $ conda install -c conda-forge numpy
 3. Скачать блокнот, который хотите запустить
 4. В открывшемся окне в браузере нажать кнопку Upload
 5. В открывшемся окне выбрать загружаемый блокнот
+
+## Методические указания
+На данном ресурсе вы сможете ознакомится с краткой теоретической информацией по представленным выше методам.
+[Math Methods Study Guide](https://rodioncode.github.io/mathmethodes/)
