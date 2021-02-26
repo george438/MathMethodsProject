@@ -41,4 +41,5 @@ $ conda install -c conda-forge numpy
 
 ## Методические указания
 На данном ресурсе вы сможете ознакомится с краткой теоретической информацией по представленным выше методам.
+
 [Math Methods Study Guide](https://rodioncode.github.io/mathmethodes/)
