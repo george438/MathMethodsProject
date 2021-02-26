@@ -16,7 +16,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/george438/MathMethodsProject/HEAD?filepath=simplexMethod.ipynb)
 
 Для запуска блокнота необходимо сделать следующее действие:
-![Запуск](https://github.com/{george438}/{MathMethodsProject}/raw/{master}/{image}/instruct.png)
+![Запуск](https://github.com/{george438}/{MathMethodsProject}/{master}/{image}/instruct.png)
 
 ## Setup
 Для взаимодействия с блокнотами локально необходимо сделать следующее:
